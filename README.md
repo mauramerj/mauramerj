@@ -1,4 +1,4 @@
-### Olá, legal ter você por aqui!
+# Olá, legal ter você por aqui!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauramerj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![mauramerj GitHub stats](https://github-readme-stats.vercel.app/api?username=mauramerj&show_icons=true&theme=onedark)
@@ -6,14 +6,14 @@
 ### Mídias sociais
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ramemau)
 [![Youtebe](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCSOuhnHIfOODrotV1fck3Hg)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio.rame@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/maurício-a-8707a161)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio.rame@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauramerj)
 
 ### Contatos
 <div style="display: inline_block"><br/>
-<img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </div>
 
@@ -42,3 +42,6 @@
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" />
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" />
 </div>
+
+
+  👽
