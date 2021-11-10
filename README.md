@@ -29,7 +29,7 @@
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
 
-### SGBDs e Banco de Dados
+### SGBDs (Banco de Dados)
 <div style="display: inline_block"><br/>
 
 <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
