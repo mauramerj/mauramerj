@@ -1,5 +1,23 @@
 # Olá, legal ter você por aqui!
 
+
+<p>
+⚛️ Formado em Analise e Desenvolvimento de Sistemas
+</p>
+
+
+<p>
+  📡 🖥️  Pós graduado em Projeto e gerência de redes de computadores
+</p>
+
+
+<p>
+0️⃣ 1️⃣ 
+0️⃣ 1️⃣ PHP 
+  Arduíno, MySQL, HTML, CSS, Bootstrap, Python, BI
+</p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauramerj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![mauramerj GitHub stats](https://github-readme-stats.vercel.app/api?username=mauramerj&show_icons=true&theme=onedark)
 
@@ -45,6 +63,3 @@
 
 
   👽
-  
-  
-  🖖🏽
