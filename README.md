@@ -17,9 +17,8 @@
   Arduíno, MySQL, HTML, CSS, Bootstrap, Python, BI
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauramerj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![mauramerj GitHub stats](https://github-readme-stats.vercel.app/api?username=mauramerj&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauramerj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Mídias sociais
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ramemau)
