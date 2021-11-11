@@ -17,11 +17,6 @@
   Arduíno, MySQL, HTML, CSS, Bootstrap, Python, BI
 </p>
 
-<p>
-  Eu deixo os códigos sem comentários, porém, deixo as variáveis <br>
-  com nomes intuitivos.
-</p>
-
 [![mauramerj GitHub stats](https://github-readme-stats.vercel.app/api?username=mauramerj&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauramerj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
