@@ -23,7 +23,7 @@
 ### Mídias sociais
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ramemau)
 [![Youtebe](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCSOuhnHIfOODrotV1fck3Hg)
-[![Linkedin](https://img.shields.io/badge/www.linkedin.com/in/maurícioamancio&logo=linkedin&logoColor=white)](linkedin.com/in/maurício-a-8707a161)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio.rame@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauramerj)
 
